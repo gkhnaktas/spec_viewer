@@ -1,0 +1,1 @@
+pyinstaller --onefile --version-file version.txt -i lrf-av.ico run.pyw
